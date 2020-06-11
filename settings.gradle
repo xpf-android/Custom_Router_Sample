@@ -1,0 +1,2 @@
+rootProject.name='Custom_Router_Sample'
+include ':app'
